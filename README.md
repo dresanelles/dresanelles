@@ -1,4 +1,11 @@
 ## Hi there 👋
+My name is Andrés Elles, i'm a software deveploment in training, i'm currently learning Python.
+- 🔭 I'm working on and ATM emulation developed in Python.
+- 🎵 Passionate about music production; I could talk about it for a long time.
+- 🎹 Ask me about Ableton Live, music production skills, tips and tricks.
+- 📖 Passionate about learning is my philosophy of life. Every day I must learn something.
+- 😁 Fun fact: I'm in the music industry, but I don't like to party. I prefer quit activities, like cooking.
+
 
 <!--
 **dresanelles/dresanelles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
