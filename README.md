@@ -26,7 +26,6 @@ My name is Andrés Elles, I'm a software developer in training. I'm currently le
 - Git & GitHub
 - Logic building & problem solving
 - Console-based application development
-- Basic object-oriented programming (OOP)
 
 ### 🤝 Soft Skills
 - Continuous learner mindset
