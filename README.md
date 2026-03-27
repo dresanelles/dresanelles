@@ -60,4 +60,3 @@ I also come from a **music production background**, which gives me a creative ap
 
 ---
 
-⭐ *"Consistency beats talent when talent doesn’t stay consistent."*
